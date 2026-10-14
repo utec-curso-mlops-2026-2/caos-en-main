@@ -1,4 +1,4 @@
 # Equipo del modelo de fuga de clientes
 
-Responsable del modelo: (escribe aqui tu nombre)
+Responsable del modelo: Sergio Falcon
 Fecha de entrega: lunes
