@@ -1,4 +1,4 @@
 # Equipo del modelo de fuga de clientes
 
-Responsable del modelo: Renzo Ravelli
+Responsable del modelo: Alvaro Tauma
 Fecha de entrega: lunes
